@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Product,Category,Quantity,Sales,Profit,Region
+1,2025-10-29,Desk,Furniture,5,6255.86,1424.45,North
+2,2025-06-24,Headphones,Technology,5,605.36,149.62,North
+3,2025-06-24,Notebook,Office Supplies,6,7423.37,1112.13,East
+4,2025-08-08,Printer,Office Supplies,6,960.89,115.01,East
+5,2025-05-08,Monitor,Technology,7,5067.9,784.44,East
+6,2025-08-26,Notebook,Office Supplies,3,940.74,281.57,East
+7,2025-12-22,Printer,Office Supplies,10,3818.15,743.45,South
+8,2025-08-26,Smartphone,Technology,5,2245.73,153.65,West
+9,2025-01-28,Office Chair,Furniture,5,6551.36,490.22,West
+10,2025-04-13,Desk,Furniture,6,2339.9,120.25,South
+11,2025-07-23,Laptop,Technology,3,3712.16,1033.14,South
+12,2025-04-21,Notebook,Office Supplies,7,9265.82,2000.58,West
+13,2025-05-10,Headphones,Technology,9,12028.61,1901.17,West
+14,2025-08-23,Printer,Office Supplies,9,11195.31,2453.49,South
+15,2025-06-21,Office Chair,Furniture,10,11940.58,1172.4,West
+16,2025-04-26,Desk,Furniture,6,1000.42,272.48,South
+17,2025-01-25,Notebook,Office Supplies,6,945.99,216.43,North
+18,2025-07-29,Notebook,Office Supplies,4,2368.54,669.42,North
+19,2025-01-15,Printer,Office Supplies,10,6312.35,1714.77,East
+20,2025-10-11,Monitor,Technology,1,734.42,62.88,West
+21,2025-12-28,Monitor,Technology,5,6261.88,1477.0,North
+22,2025-10-22,Headphones,Technology,8,1453.87,169.27,East
+23,2025-08-23,Desk,Furniture,10,5980.52,678.09,East
+24,2025-11-25,Office Chair,Furniture,7,2520.2,339.42,West
+25,2025-11-28,Headphones,Technology,5,4482.17,368.68,East
+26,2025-11-19,Office Chair,Furniture,1,224.88,51.48,North
+27,2025-03-21,Monitor,Technology,3,2905.6,582.92,South
+28,2025-07-21,Office Chair,Furniture,5,6113.56,1536.95,East
+29,2025-01-07,Office Chair,Furniture,5,400.76,26.71,East
+30,2025-07-26,Monitor,Technology,1,597.06,59.12,East
+31,2025-01-05,Smartphone,Technology,10,1845.98,259.68,North
+32,2025-08-19,Headphones,Technology,6,1192.91,242.16,West
+33,2025-04-25,Office Chair,Furniture,4,3418.49,493.88,East
+34,2025-10-20,Headphones,Technology,6,5148.49,899.65,North
+35,2025-08-24,Notebook,Office Supplies,9,8417.12,553.92,East
+36,2025-08-15,Headphones,Technology,2,2800.61,407.23,South
+37,2025-02-15,Monitor,Technology,1,313.79,44.37,West
+38,2025-11-19,Headphones,Technology,9,8267.71,1978.75,North
+39,2025-08-29,Smartphone,Technology,10,8612.36,933.4,South
+40,2025-03-08,Office Chair,Furniture,9,1141.28,136.08,West
+41,2025-01-25,Monitor,Technology,6,7499.81,1330.11,South
+42,2025-09-20,Headphones,Technology,3,3784.67,895.42,North
+43,2025-10-16,Office Chair,Furniture,4,3787.56,584.26,North
+44,2025-01-11,Office Chair,Furniture,2,414.27,99.99,West
+45,2025-03-17,Smartphone,Technology,3,3630.07,705.46,South
+46,2025-09-10,Headphones,Technology,9,8531.61,889.27,North
+47,2025-04-06,Office Chair,Furniture,3,1577.87,241.78,North
+48,2025-05-10,Office Chair,Furniture,7,555.64,55.0,South
+49,2025-12-13,Smartphone,Technology,2,2822.05,823.99,North
+50,2025-02-24,Monitor,Technology,2,1236.63,280.05,West
+51,2025-05-14,Notebook,Office Supplies,3,2895.16,526.29,East
+52,2025-06-17,Smartphone,Technology,8,4065.7,744.69,South
+53,2025-09-11,Smartphone,Technology,1,337.94,85.68,West
+54,2025-09-27,Office Chair,Furniture,6,710.35,47.08,North
+55,2025-02-08,Printer,Office Supplies,1,239.94,17.61,West
+56,2025-09-19,Notebook,Office Supplies,2,2722.1,464.51,East
+57,2025-10-09,Laptop,Technology,5,1618.13,295.39,North
+58,2025-01-18,Office Chair,Furniture,5,1510.45,150.0,South
+59,2025-09-26,Printer,Office Supplies,6,5309.99,1564.69,North
+60,2025-05-20,Monitor,Technology,5,3130.25,289.36,North
+61,2025-10-21,Laptop,Technology,5,2088.89,512.24,North
+62,2025-07-31,Smartphone,Technology,3,2791.21,154.43,East
+63,2025-06-20,Notebook,Office Supplies,10,9539.36,747.86,South
+64,2025-10-14,Printer,Office Supplies,2,847.78,135.31,North
+65,2025-08-14,Monitor,Technology,1,82.52,21.2,East
+66,2025-01-11,Smartphone,Technology,9,10277.49,845.63,South
+67,2025-05-21,Laptop,Technology,4,3105.87,212.28,West
+68,2025-08-10,Notebook,Office Supplies,10,6240.94,1003.85,South
+69,2025-09-19,Office Chair,Furniture,3,2816.31,539.98,North
+70,2025-11-12,Smartphone,Technology,4,3933.96,459.81,North
+71,2025-12-10,Printer,Office Supplies,6,3640.92,336.33,North
+72,2025-07-19,Headphones,Technology,9,9560.69,2720.02,South
+73,2025-11-19,Notebook,Office Supplies,6,6472.36,1460.69,East
+74,2025-10-02,Monitor,Technology,6,5831.73,598.9,South
+75,2025-01-04,Headphones,Technology,7,2752.68,754.61,East
+76,2025-07-26,Monitor,Technology,5,6911.7,1557.48,West
+77,2025-06-11,Laptop,Technology,9,5645.99,1316.43,East
+78,2025-03-23,Desk,Furniture,8,3904.14,262.36,South
+79,2025-10-22,Office Chair,Furniture,3,1560.55,184.2,East
+80,2025-04-06,Headphones,Technology,6,1227.73,71.16,West
+81,2025-03-28,Desk,Furniture,9,1570.74,249.77,South
+82,2025-10-03,Office Chair,Furniture,1,1459.67,298.01,South
+83,2025-12-10,Desk,Furniture,5,1213.91,345.27,East
+84,2025-12-23,Desk,Furniture,5,5723.99,954.48,East
+85,2025-07-24,Printer,Office Supplies,6,585.08,53.39,South
+86,2025-09-02,Smartphone,Technology,2,1840.28,128.38,West
+87,2025-10-10,Printer,Office Supplies,1,988.35,237.46,North
+88,2025-07-25,Printer,Office Supplies,4,637.86,42.28,South
+89,2025-05-10,Notebook,Office Supplies,5,1716.95,217.35,East
+90,2025-06-03,Laptop,Technology,6,1900.62,502.55,East
+91,2025-09-27,Monitor,Technology,3,3898.57,239.92,West
+92,2025-06-17,Notebook,Office Supplies,2,1073.68,80.23,North
+93,2025-03-20,Notebook,Office Supplies,1,490.83,99.52,South
+94,2025-05-12,Printer,Office Supplies,6,7500.62,900.36,South
+95,2025-08-20,Notebook,Office Supplies,2,1702.08,365.1,North
+96,2025-01-06,Smartphone,Technology,7,9526.92,902.64,West
+97,2025-12-14,Office Chair,Furniture,8,1858.5,182.91,East
+98,2025-11-07,Notebook,Office Supplies,3,2920.35,802.46,South
+99,2025-05-11,Notebook,Office Supplies,1,614.85,143.92,West
+100,2025-04-28,Printer,Office Supplies,3,1266.06,354.47,South
+101,2025-09-06,Office Chair,Furniture,1,249.85,16.78,West
+102,2025-08-05,Smartphone,Technology,6,1021.19,162.38,North
+103,2025-01-14,Office Chair,Furniture,10,6204.73,941.4,North
+104,2025-07-05,Headphones,Technology,1,822.14,234.99,North
+105,2025-07-11,Printer,Office Supplies,4,1354.52,252.7,West
+106,2025-04-21,Desk,Furniture,4,2568.89,611.49,South
+107,2025-06-23,Monitor,Technology,7,8670.79,2385.58,East
+108,2025-04-21,Monitor,Technology,2,1127.25,310.78,South
+109,2025-07-17,Smartphone,Technology,6,3127.37,613.17,East
+110,2025-11-04,Monitor,Technology,6,7482.1,1174.74,South
+111,2025-08-01,Desk,Furniture,10,854.57,201.24,East
+112,2025-04-24,Headphones,Technology,2,719.36,56.45,South
+113,2025-10-31,Printer,Office Supplies,4,1388.05,256.78,North
+114,2025-09-08,Smartphone,Technology,6,4814.12,1190.45,North
+115,2025-11-22,Desk,Furniture,9,6676.75,887.48,North
+116,2025-11-28,Laptop,Technology,2,2213.55,596.12,South
+117,2025-05-18,Laptop,Technology,10,7885.09,570.7,South
+118,2025-11-24,Laptop,Technology,3,3829.47,959.12,North
+119,2025-07-31,Smartphone,Technology,5,2788.28,322.63,West
+120,2025-02-19,Office Chair,Furniture,6,8367.63,1240.42,West
+121,2025-12-28,Office Chair,Furniture,3,2056.74,587.44,North
+122,2025-12-19,Laptop,Technology,6,3892.78,214.8,South
+123,2025-07-02,Headphones,Technology,5,1269.13,140.06,North
+124,2025-03-22,Office Chair,Furniture,8,9295.27,1032.72,North
+125,2025-06-04,Desk,Furniture,8,2709.27,580.72,West
+126,2025-01-07,Smartphone,Technology,10,12037.71,2135.48,South
+127,2025-12-22,Monitor,Technology,4,3585.28,729.86,North
+128,2025-05-09,Laptop,Technology,5,5472.79,1164.67,North
+129,2025-12-24,Monitor,Technology,7,6672.14,493.51,South
+130,2025-06-19,Desk,Furniture,2,2070.4,256.01,West
+131,2025-05-06,Smartphone,Technology,6,5501.27,867.84,East
+132,2025-02-03,Monitor,Technology,5,689.67,58.02,West
+133,2025-10-02,Monitor,Technology,4,3263.65,190.89,South
+134,2025-02-14,Smartphone,Technology,4,3550.29,764.2,West
+135,2025-07-28,Smartphone,Technology,5,5667.22,956.92,South
+136,2025-09-20,Notebook,Office Supplies,3,3387.73,394.08,East
+137,2025-09-17,Office Chair,Furniture,6,5389.31,1235.67,East
+138,2025-01-31,Printer,Office Supplies,3,1540.19,441.62,North
+139,2025-04-26,Desk,Furniture,3,1341.05,190.71,South
+140,2025-10-14,Notebook,Office Supplies,4,695.03,109.79,North
+141,2025-09-27,Monitor,Technology,7,8236.98,1703.06,West
+142,2025-05-07,Office Chair,Furniture,4,729.16,193.6,North
+143,2025-08-20,Laptop,Technology,6,6839.05,1260.2,North
+144,2025-06-02,Smartphone,Technology,7,8134.47,776.95,North
+145,2025-04-15,Monitor,Technology,3,1402.46,262.84,East
+146,2025-02-07,Smartphone,Technology,5,7124.63,1938.79,East
+147,2025-01-17,Headphones,Technology,10,12205.51,2599.49,East
+148,2025-07-14,Desk,Furniture,7,9923.51,1726.31,East
+149,2025-10-14,Printer,Office Supplies,3,466.84,99.47,North
+150,2025-09-17,Headphones,Technology,3,1005.16,147.35,South
+151,2025-01-18,Headphones,Technology,10,1425.95,343.46,North
+152,2025-11-13,Smartphone,Technology,5,981.02,115.42,East
+153,2025-12-04,Desk,Furniture,1,1247.82,110.97,East
+154,2025-01-14,Notebook,Office Supplies,8,5549.92,390.15,North
+155,2025-02-23,Printer,Office Supplies,9,10893.98,2947.76,South
+156,2025-08-29,Notebook,Office Supplies,7,7590.95,1534.07,South
+157,2025-03-14,Office Chair,Furniture,7,7480.32,1736.03,North
+158,2025-04-03,Headphones,Technology,2,1302.52,118.71,North
+159,2025-05-28,Laptop,Technology,2,2297.1,467.02,North
+160,2025-09-25,Office Chair,Furniture,7,8324.81,441.81,North
+161,2025-09-06,Monitor,Technology,5,6142.14,893.47,West
+162,2025-03-24,Desk,Furniture,2,2317.62,632.49,South
+163,2025-11-09,Office Chair,Furniture,2,2623.39,229.52,East
+164,2025-03-03,Office Chair,Furniture,5,3406.09,359.07,South
+165,2025-05-30,Office Chair,Furniture,8,1018.51,158.37,West
+166,2025-02-18,Notebook,Office Supplies,7,9411.73,1665.85,West
+167,2025-01-09,Desk,Furniture,3,4394.55,1091.64,East
+168,2025-06-07,Laptop,Technology,7,6937.25,1141.79,North
+169,2025-10-21,Notebook,Office Supplies,7,7566.41,652.87,North
+170,2025-10-24,Smartphone,Technology,3,1787.81,487.48,North
+171,2025-10-01,Office Chair,Furniture,10,3801.86,677.76,North
+172,2025-05-01,Monitor,Technology,3,2844.46,206.45,East
+173,2025-11-29,Office Chair,Furniture,6,6540.86,990.21,North
+174,2025-12-06,Printer,Office Supplies,6,7309.68,1986.04,North
+175,2025-04-23,Monitor,Technology,8,1491.05,375.88,North
+176,2025-10-22,Smartphone,Technology,2,2692.02,382.3,East
+177,2025-04-30,Monitor,Technology,7,2062.53,462.95,North
+178,2025-10-15,Printer,Office Supplies,3,2257.14,256.93,East
+179,2025-02-17,Monitor,Technology,8,543.44,60.58,North
+180,2025-05-18,Laptop,Technology,7,9886.69,641.04,South
+181,2025-05-18,Notebook,Office Supplies,8,1846.9,367.02,West
+182,2025-01-07,Monitor,Technology,4,4810.33,752.13,South
+183,2025-07-30,Monitor,Technology,1,657.48,152.36,North
+184,2025-03-20,Monitor,Technology,3,4161.59,996.5,North
+185,2025-04-09,Notebook,Office Supplies,2,76.77,21.18,East
+186,2025-11-23,Printer,Office Supplies,2,1060.04,59.37,South
+187,2025-05-18,Office Chair,Furniture,1,207.1,41.98,North
+188,2025-01-23,Smartphone,Technology,5,4859.47,1246.03,East
+189,2025-10-11,Headphones,Technology,2,1592.29,417.34,East
+190,2025-10-17,Notebook,Office Supplies,1,1411.02,282.84,North
+191,2025-02-01,Office Chair,Furniture,2,2083.3,579.73,West
+192,2025-01-01,Smartphone,Technology,10,12779.39,3250.94,North
+193,2025-04-07,Laptop,Technology,6,7011.87,1855.98,South
+194,2025-08-07,Smartphone,Technology,3,4142.61,1157.81,West
+195,2025-09-04,Printer,Office Supplies,1,218.02,46.29,West
+196,2025-07-25,Printer,Office Supplies,8,1388.38,155.63,West
+197,2025-12-03,Office Chair,Furniture,10,2477.48,207.78,West
+198,2025-08-12,Smartphone,Technology,2,1767.87,149.33,West
+199,2025-03-02,Monitor,Technology,8,4706.79,1106.36,East
+200,2025-04-22,Desk,Furniture,4,108.78,15.85,North
+201,2025-03-28,Monitor,Technology,7,8448.83,2423.66,North
+202,2025-10-12,Office Chair,Furniture,4,459.18,128.55,North
+203,2025-01-03,Printer,Office Supplies,10,12359.9,2692.29,North
+204,2025-07-16,Laptop,Technology,4,5216.07,964.42,East
+205,2025-10-16,Headphones,Technology,2,989.96,75.24,East
+206,2025-04-21,Printer,Office Supplies,1,1386.78,124.24,West
+207,2025-04-27,Smartphone,Technology,8,648.76,95.62,South
+208,2025-06-26,Headphones,Technology,10,13635.11,1815.5,East
+209,2025-01-08,Laptop,Technology,6,4252.87,251.78,South
+210,2025-07-17,Office Chair,Furniture,6,6680.57,961.37,West
+211,2025-10-15,Desk,Furniture,10,2827.72,559.44,East
+212,2025-02-16,Monitor,Technology,4,3837.24,639.11,South
+213,2025-02-06,Laptop,Technology,7,1454.25,369.64,West
+214,2025-11-20,Desk,Furniture,8,11646.85,2449.6,North
+215,2025-03-23,Office Chair,Furniture,2,756.57,140.33,South
+216,2025-08-21,Smartphone,Technology,4,2959.28,454.81,East
+217,2025-01-24,Laptop,Technology,4,1869.8,273.1,South
+218,2025-07-16,Headphones,Technology,1,1201.78,360.34,East
+219,2025-02-16,Headphones,Technology,3,3089.19,168.48,South
+220,2025-12-07,Monitor,Technology,7,411.66,65.73,West
+221,2025-09-07,Desk,Furniture,1,472.83,68.73,South
+222,2025-08-31,Office Chair,Furniture,3,4131.19,1019.93,South
+223,2025-08-11,Smartphone,Technology,9,7161.7,900.24,South
+224,2025-05-22,Desk,Furniture,9,3017.02,434.7,North
+225,2025-03-24,Smartphone,Technology,1,1060.41,180.3,North
+226,2025-01-22,Printer,Office Supplies,8,4563.67,1326.15,North
+227,2025-05-02,Smartphone,Technology,3,3563.33,329.66,South
+228,2025-12-22,Monitor,Technology,8,4426.36,1062.18,North
+229,2025-11-04,Desk,Furniture,5,3696.66,841.92,East
+230,2025-03-02,Desk,Furniture,7,9206.69,792.31,West
+231,2025-09-26,Monitor,Technology,4,816.12,115.3,East
+232,2025-07-12,Desk,Furniture,4,1567.54,461.95,West
+233,2025-12-21,Headphones,Technology,6,1174.22,119.45,North
+234,2025-07-28,Monitor,Technology,3,3373.25,510.78,East
+235,2025-07-26,Printer,Office Supplies,4,868.03,137.58,West
+236,2025-01-24,Printer,Office Supplies,1,584.92,172.62,West
+237,2025-08-04,Printer,Office Supplies,10,6113.66,1253.07,North
+238,2025-09-18,Headphones,Technology,9,6355.17,374.08,South
+239,2025-09-24,Desk,Furniture,7,9403.42,1566.12,West
+240,2025-10-14,Smartphone,Technology,6,5869.79,721.57,East
+241,2025-11-08,Printer,Office Supplies,2,1034.64,210.56,South
+242,2025-04-15,Printer,Office Supplies,4,3450.72,672.91,East
+243,2025-08-27,Monitor,Technology,7,8631.15,1592.17,South
+244,2025-10-29,Printer,Office Supplies,7,4808.48,1393.77,South
+245,2025-09-08,Notebook,Office Supplies,10,13878.47,3819.6,East
+246,2025-11-30,Desk,Furniture,6,4310.02,496.32,East
+247,2025-04-10,Printer,Office Supplies,4,4105.37,1201.93,East
+248,2025-11-08,Laptop,Technology,3,4243.8,782.3,East
+249,2025-05-06,Desk,Furniture,2,289.74,48.03,South
+250,2025-03-21,Notebook,Office Supplies,8,672.25,145.94,North
+251,2025-12-03,Laptop,Technology,8,4422.16,1014.32,West
+252,2025-01-23,Laptop,Technology,10,5695.85,734.05,South
+253,2025-01-08,Notebook,Office Supplies,6,7956.2,2131.01,West
+254,2025-11-24,Desk,Furniture,6,2919.94,185.46,South
+255,2025-06-23,Desk,Furniture,4,3833.35,973.59,North
+256,2025-12-25,Office Chair,Furniture,10,11222.11,1018.17,East
+257,2025-07-01,Printer,Office Supplies,2,2911.77,865.12,West
+258,2025-05-12,Office Chair,Furniture,3,3498.59,906.28,West
+259,2025-09-06,Smartphone,Technology,6,6716.08,1494.28,West
+260,2025-05-09,Desk,Furniture,8,10819.41,2941.19,South
+261,2025-04-02,Laptop,Technology,8,7975.64,2139.88,East
+262,2025-04-13,Smartphone,Technology,3,3173.87,883.65,East
+263,2025-07-28,Office Chair,Furniture,7,461.38,49.1,West
+264,2025-01-01,Notebook,Office Supplies,3,2758.19,755.64,North
+265,2025-12-12,Office Chair,Furniture,4,608.44,139.13,West
+266,2025-08-10,Desk,Furniture,2,1119.72,141.93,West
+267,2025-01-15,Monitor,Technology,10,8041.76,2205.91,West
+268,2025-03-30,Smartphone,Technology,2,2767.74,220.05,North
+269,2025-06-25,Desk,Furniture,8,11989.93,2803.95,North
+270,2025-12-21,Headphones,Technology,1,966.94,153.92,South
+271,2025-08-10,Monitor,Technology,4,145.13,28.41,East
+272,2025-04-21,Desk,Furniture,9,11331.04,1089.93,North
+273,2025-11-21,Laptop,Technology,3,3122.42,370.6,South
+274,2025-10-09,Desk,Furniture,9,4861.11,1066.36,East
+275,2025-01-02,Monitor,Technology,7,6484.94,1669.97,South
+276,2025-05-26,Monitor,Technology,6,4379.36,818.81,North
+277,2025-12-20,Headphones,Technology,5,3138.01,275.21,North
+278,2025-07-21,Laptop,Technology,5,1121.94,212.06,East
+279,2025-07-27,Smartphone,Technology,6,5438.98,983.26,North
+280,2025-01-26,Notebook,Office Supplies,7,4213.85,763.27,South
+281,2025-03-10,Monitor,Technology,8,2280.94,266.05,North
+282,2025-06-26,Office Chair,Furniture,3,1758.66,181.34,West
+283,2025-11-25,Headphones,Technology,6,7168.85,1674.75,West
+284,2025-06-20,Notebook,Office Supplies,3,208.76,58.09,North
+285,2025-01-14,Printer,Office Supplies,6,3307.89,311.75,North
+286,2025-05-17,Printer,Office Supplies,8,10994.84,3223.35,North
+287,2025-04-04,Smartphone,Technology,1,355.15,103.22,South
+288,2025-12-14,Office Chair,Furniture,7,7831.98,708.52,South
+289,2025-08-23,Notebook,Office Supplies,7,3410.28,795.21,North
+290,2025-09-23,Laptop,Technology,10,12781.83,851.85,South
+291,2025-09-22,Headphones,Technology,1,165.15,26.19,West
+292,2025-03-30,Headphones,Technology,9,9565.38,1042.94,West
+293,2025-10-03,Printer,Office Supplies,9,5505.85,1473.07,South
+294,2025-12-09,Smartphone,Technology,6,7835.5,1211.39,North
+295,2025-06-08,Smartphone,Technology,2,2601.76,242.98,East
+296,2025-08-28,Headphones,Technology,1,1042.16,126.91,South
+297,2025-09-10,Laptop,Technology,7,7150.7,1241.25,South
+298,2025-06-07,Headphones,Technology,3,171.06,9.69,South
+299,2025-04-25,Printer,Office Supplies,7,9348.78,513.09,South
+300,2025-04-06,Desk,Furniture,2,2442.36,489.02,North
+301,2025-06-14,Desk,Furniture,10,6033.02,388.8,North
+302,2025-12-23,Office Chair,Furniture,4,4542.93,1278.83,East
+303,2025-08-31,Smartphone,Technology,7,7959.58,1299.22,West
+304,2025-09-21,Headphones,Technology,7,3186.3,651.29,West
+305,2025-09-10,Printer,Office Supplies,9,6773.09,1566.69,West
+306,2025-07-05,Smartphone,Technology,10,981.24,161.44,East
+307,2025-05-25,Office Chair,Furniture,4,4645.82,958.23,West
+308,2025-09-01,Notebook,Office Supplies,7,7300.17,1797.56,North
+309,2025-02-17,Notebook,Office Supplies,10,5954.17,837.96,South
+310,2025-12-13,Smartphone,Technology,1,127.48,29.86,East
+311,2025-11-16,Printer,Office Supplies,8,873.98,55.25,West
+312,2025-01-22,Notebook,Office Supplies,7,6628.36,1449.66,East
+313,2025-03-26,Monitor,Technology,10,2851.79,567.67,West
+314,2025-03-31,Notebook,Office Supplies,9,9892.75,845.58,North
+315,2025-01-17,Smartphone,Technology,1,114.44,27.11,South
+316,2025-01-18,Smartphone,Technology,5,3916.09,725.22,East
+317,2025-03-12,Desk,Furniture,3,3869.19,870.51,North
+318,2025-05-19,Headphones,Technology,9,1295.19,263.07,East
+319,2025-08-22,Laptop,Technology,1,1311.99,75.79,West
+320,2025-12-22,Desk,Furniture,9,3606.66,410.93,West
+321,2025-12-26,Laptop,Technology,1,1053.07,103.67,East
+322,2025-06-13,Notebook,Office Supplies,4,694.01,164.33,North
+323,2025-02-04,Printer,Office Supplies,5,2898.94,521.63,East
+324,2025-03-25,Headphones,Technology,6,6481.3,821.38,East
+325,2025-07-29,Office Chair,Furniture,8,1792.25,266.78,North
+326,2025-12-25,Laptop,Technology,4,5623.6,1494.47,South
+327,2025-07-12,Smartphone,Technology,3,1423.61,292.35,North
+328,2025-03-09,Laptop,Technology,10,8909.3,833.88,North
+329,2025-02-13,Office Chair,Furniture,3,3097.09,322.64,West
+330,2025-04-23,Headphones,Technology,2,1854.31,181.39,West
+331,2025-02-16,Headphones,Technology,4,3249.32,163.8,South
+332,2025-02-23,Notebook,Office Supplies,5,1231.93,223.79,West
+333,2025-09-09,Headphones,Technology,5,4836.29,1061.73,North
+334,2025-04-27,Office Chair,Furniture,7,2139.86,132.2,East
+335,2025-08-19,Printer,Office Supplies,10,7848.56,1270.71,West
+336,2025-02-12,Notebook,Office Supplies,6,4185.37,929.09,North
+337,2025-02-15,Smartphone,Technology,6,5773.39,1329.01,West
+338,2025-03-09,Notebook,Office Supplies,2,909.74,211.78,North
+339,2025-08-15,Desk,Furniture,2,708.55,74.67,North
+340,2025-01-16,Monitor,Technology,10,4592.67,1049.56,West
+341,2025-05-29,Smartphone,Technology,8,9977.86,1121.97,North
+342,2025-06-10,Monitor,Technology,2,2331.3,648.0,East
+343,2025-11-16,Office Chair,Furniture,10,9171.74,1333.32,North
+344,2025-11-30,Notebook,Office Supplies,7,4462.26,1270.6,East
+345,2025-07-14,Office Chair,Furniture,5,1167.89,212.86,West
+346,2025-07-04,Headphones,Technology,6,5773.09,1649.34,East
+347,2025-01-20,Office Chair,Furniture,3,2055.99,417.81,North
+348,2025-11-03,Monitor,Technology,9,4797.57,879.0,West
+349,2025-05-04,Headphones,Technology,5,6551.44,510.8,West
+350,2025-06-25,Desk,Furniture,3,2091.84,435.19,East
+351,2025-08-05,Monitor,Technology,4,2776.65,722.44,North
+352,2025-12-18,Printer,Office Supplies,5,5065.42,1058.0,North
+353,2025-03-04,Printer,Office Supplies,6,548.36,151.96,North
+354,2025-06-03,Office Chair,Furniture,6,1549.57,275.42,North
+355,2025-05-20,Monitor,Technology,2,2635.73,554.12,North
+356,2025-04-20,Notebook,Office Supplies,2,2596.29,428.8,South
+357,2025-07-27,Office Chair,Furniture,9,8432.03,1078.28,West
+358,2025-10-02,Office Chair,Furniture,7,9302.35,2577.26,South
+359,2025-12-27,Printer,Office Supplies,8,7987.93,1629.62,North
+360,2025-09-06,Office Chair,Furniture,3,3219.33,354.57,North
+361,2025-04-10,Printer,Office Supplies,2,2663.34,180.05,West
+362,2025-12-17,Printer,Office Supplies,9,3130.7,169.81,North
+363,2025-06-26,Office Chair,Furniture,9,2247.84,648.8,South
+364,2025-09-20,Laptop,Technology,5,4430.84,937.11,West
+365,2025-05-07,Laptop,Technology,4,3848.1,728.88,West
+366,2025-07-25,Laptop,Technology,10,12844.59,2278.24,West
+367,2025-08-23,Laptop,Technology,4,1569.72,331.74,South
+368,2025-06-29,Headphones,Technology,9,9828.03,2096.18,South
+369,2025-06-07,Monitor,Technology,5,6630.83,1486.01,East
+370,2025-06-30,Notebook,Office Supplies,10,11963.09,1302.02,North
+371,2025-09-24,Office Chair,Furniture,1,1472.61,216.29,South
+372,2025-12-28,Headphones,Technology,1,299.8,46.34,East
+373,2025-11-16,Monitor,Technology,2,2776.5,653.21,East
+374,2025-02-03,Monitor,Technology,7,6211.56,1725.88,West
+375,2025-01-30,Laptop,Technology,4,475.7,31.54,West
+376,2025-12-07,Notebook,Office Supplies,3,4316.86,1210.64,North
+377,2025-12-18,Desk,Furniture,6,6751.55,1855.22,South
+378,2025-07-01,Headphones,Technology,3,1045.03,284.79,West
+379,2025-03-21,Printer,Office Supplies,8,2462.61,138.49,West
+380,2025-01-30,Notebook,Office Supplies,5,3703.26,188.51,West
+381,2025-08-16,Monitor,Technology,6,8059.37,494.24,West
+382,2025-03-14,Notebook,Office Supplies,5,4600.97,536.86,South
+383,2025-07-06,Smartphone,Technology,1,471.38,120.98,North
+384,2025-04-01,Headphones,Technology,8,2229.76,549.34,West
+385,2025-04-13,Notebook,Office Supplies,10,5180.45,1497.62,East
+386,2025-11-04,Desk,Furniture,7,9853.52,1042.96,West
+387,2025-09-27,Printer,Office Supplies,1,706.35,205.57,South
+388,2025-03-16,Monitor,Technology,8,11729.66,2424.41,North
+389,2025-10-31,Desk,Furniture,4,5955.76,1118.98,South
+390,2025-03-05,Laptop,Technology,4,2814.41,633.53,East
+391,2025-12-01,Monitor,Technology,1,1175.78,153.17,South
+392,2025-01-17,Printer,Office Supplies,5,4259.63,873.23,North
+393,2025-07-15,Office Chair,Furniture,3,4446.6,1166.4,West
+394,2025-09-29,Laptop,Technology,9,654.82,152.44,North
+395,2025-06-01,Notebook,Office Supplies,7,2833.88,300.53,North
+396,2025-02-26,Monitor,Technology,10,8505.15,1569.47,West
+397,2025-03-16,Headphones,Technology,8,8706.55,1397.16,South
+398,2025-03-20,Smartphone,Technology,4,3875.1,1052.97,North
+399,2025-01-21,Notebook,Office Supplies,4,5917.99,1553.06,South
+400,2025-12-06,Notebook,Office Supplies,2,2520.04,483.05,East
+401,2025-01-08,Notebook,Office Supplies,6,4688.27,1349.16,North
+402,2025-07-15,Monitor,Technology,10,2386.18,321.15,North
+403,2025-06-22,Printer,Office Supplies,1,780.22,132.77,North
+404,2025-12-06,Laptop,Technology,7,6686.06,1565.38,North
+405,2025-04-15,Notebook,Office Supplies,5,1358.07,298.61,West
+406,2025-01-02,Laptop,Technology,9,3995.16,447.98,South
+407,2025-09-30,Laptop,Technology,9,10985.56,1752.11,North
+408,2025-06-16,Laptop,Technology,1,980.2,146.23,West
+409,2025-05-21,Desk,Furniture,6,5071.23,1509.89,North
+410,2025-09-05,Smartphone,Technology,8,4802.58,1157.27,North
+411,2025-06-21,Desk,Furniture,2,725.48,111.97,West
+412,2025-12-17,Monitor,Technology,1,1403.15,200.99,North
+413,2025-06-16,Laptop,Technology,5,4296.48,626.72,West
+414,2025-09-22,Notebook,Office Supplies,1,37.18,9.62,South
+415,2025-11-15,Smartphone,Technology,10,5540.84,1528.93,East
+416,2025-03-09,Desk,Furniture,5,6612.4,668.83,West
+417,2025-07-04,Office Chair,Furniture,5,3974.73,873.7,East
+418,2025-05-05,Printer,Office Supplies,5,2590.51,483.9,West
+419,2025-07-05,Office Chair,Furniture,2,86.61,15.99,East
+420,2025-02-28,Notebook,Office Supplies,3,2880.43,624.98,North
+421,2025-07-21,Office Chair,Furniture,5,266.69,25.1,South
+422,2025-09-27,Laptop,Technology,2,2406.46,200.22,South
+423,2025-09-30,Printer,Office Supplies,4,2830.24,342.97,North
+424,2025-12-11,Laptop,Technology,10,10187.42,1303.89,West
+425,2025-05-11,Laptop,Technology,10,10653.2,2533.27,South
+426,2025-05-07,Laptop,Technology,2,1396.66,212.53,North
+427,2025-09-25,Printer,Office Supplies,1,426.75,47.08,West
+428,2025-10-06,Printer,Office Supplies,8,5524.02,296.19,South
+429,2025-11-28,Monitor,Technology,4,456.87,30.37,West
+430,2025-05-24,Office Chair,Furniture,3,1559.03,128.48,West
+431,2025-03-22,Laptop,Technology,10,6766.34,1918.01,North
+432,2025-02-20,Desk,Furniture,10,4994.82,1123.31,East
+433,2025-01-26,Smartphone,Technology,7,5125.3,1203.02,East
+434,2025-04-20,Headphones,Technology,9,4346.37,243.24,North
+435,2025-09-01,Laptop,Technology,2,1460.28,107.65,East
+436,2025-05-03,Desk,Furniture,10,14263.0,1659.37,South
+437,2025-06-16,Office Chair,Furniture,5,5333.13,976.88,South
+438,2025-06-09,Headphones,Technology,8,8143.55,1808.74,West
+439,2025-08-23,Desk,Furniture,1,642.37,106.85,East
+440,2025-10-21,Office Chair,Furniture,10,4689.73,648.82,South
+441,2025-11-14,Notebook,Office Supplies,10,925.07,55.82,South
+442,2025-07-02,Printer,Office Supplies,3,3222.85,450.75,North
+443,2025-03-03,Notebook,Office Supplies,2,1564.54,214.75,North
+444,2025-09-13,Notebook,Office Supplies,4,2352.17,520.93,East
+445,2025-09-21,Notebook,Office Supplies,3,1111.15,91.51,North
+446,2025-11-02,Monitor,Technology,1,98.78,27.34,North
+447,2025-09-01,Printer,Office Supplies,5,958.87,135.24,West
+448,2025-07-27,Office Chair,Furniture,3,4480.7,1071.19,East
+449,2025-11-21,Printer,Office Supplies,2,2533.5,694.15,East
+450,2025-10-25,Office Chair,Furniture,5,3962.48,535.08,East
+451,2025-12-19,Laptop,Technology,3,3081.87,255.59,East
+452,2025-02-07,Notebook,Office Supplies,5,4076.98,836.21,North
+453,2025-01-07,Headphones,Technology,3,141.62,29.01,West
+454,2025-08-19,Notebook,Office Supplies,6,6405.84,541.64,West
+455,2025-02-06,Printer,Office Supplies,7,9662.76,2333.6,West
+456,2025-09-25,Desk,Furniture,3,2577.1,669.29,South
+457,2025-03-05,Office Chair,Furniture,3,2352.34,386.23,East
+458,2025-09-24,Notebook,Office Supplies,2,1984.98,473.84,South
+459,2025-07-09,Notebook,Office Supplies,9,11288.04,2050.3,South
+460,2025-11-06,Monitor,Technology,7,9197.43,484.64,East
+461,2025-10-01,Printer,Office Supplies,5,127.44,9.32,East
+462,2025-12-02,Printer,Office Supplies,3,2970.96,482.59,North
+463,2025-09-27,Office Chair,Furniture,9,5165.26,547.26,North
+464,2025-02-26,Smartphone,Technology,8,7700.26,1831.61,East
+465,2025-02-10,Desk,Furniture,5,7369.53,1667.65,North
+466,2025-11-09,Office Chair,Furniture,10,12436.92,955.24,North
+467,2025-05-17,Laptop,Technology,10,3571.73,477.48,West
+468,2025-10-23,Notebook,Office Supplies,7,4809.41,617.33,North
+469,2025-12-28,Printer,Office Supplies,4,3184.39,457.94,East
+470,2025-03-18,Desk,Furniture,5,4641.31,521.4,West
+471,2025-08-31,Smartphone,Technology,1,332.67,31.28,East
+472,2025-12-11,Laptop,Technology,6,7904.53,955.17,North
+473,2025-02-09,Desk,Furniture,5,2078.12,581.12,East
+474,2025-01-12,Desk,Furniture,3,1467.39,154.56,West
+475,2025-12-02,Desk,Furniture,1,939.4,195.32,West
+476,2025-08-30,Office Chair,Furniture,3,400.47,52.83,North
+477,2025-12-19,Desk,Furniture,9,9779.44,2316.46,East
+478,2025-12-12,Office Chair,Furniture,6,4446.38,782.89,West
+479,2025-05-31,Monitor,Technology,4,3983.73,768.37,West
+480,2025-05-15,Notebook,Office Supplies,6,1391.56,241.63,South
+481,2025-12-06,Smartphone,Technology,10,6224.8,560.31,East
+482,2025-02-14,Headphones,Technology,6,6710.98,619.16,East
+483,2025-07-22,Headphones,Technology,4,1175.23,297.94,East
+484,2025-05-09,Notebook,Office Supplies,9,3069.15,739.34,South
+485,2025-04-14,Notebook,Office Supplies,1,430.76,38.4,East
+486,2025-08-27,Office Chair,Furniture,5,5659.34,663.62,West
+487,2025-04-17,Headphones,Technology,9,12152.01,2429.79,South
+488,2025-06-06,Monitor,Technology,2,1323.25,109.3,South
+489,2025-10-30,Smartphone,Technology,8,1869.59,499.46,South
+490,2025-01-10,Laptop,Technology,10,5370.76,810.05,East
+491,2025-02-19,Desk,Furniture,9,1991.41,104.24,South
+492,2025-12-24,Desk,Furniture,5,1471.12,97.17,West
+493,2025-05-28,Smartphone,Technology,8,8970.68,1324.47,North
+494,2025-12-17,Notebook,Office Supplies,7,8062.27,1041.04,West
+495,2025-10-22,Desk,Furniture,5,6896.88,515.44,North
+496,2025-12-06,Office Chair,Furniture,6,5269.22,939.96,South
+497,2025-06-01,Headphones,Technology,10,12215.23,1944.42,West
+498,2025-04-17,Laptop,Technology,9,3419.94,801.83,East
+499,2025-06-01,Office Chair,Furniture,3,1939.37,522.68,South
+500,2025-11-28,Monitor,Technology,1,526.52,121.25,North
+501,2025-01-17,Smartphone,Technology,5,319.32,19.96,East
+502,2025-07-13,Printer,Office Supplies,1,93.51,25.22,West
+503,2025-07-26,Monitor,Technology,1,1240.37,120.08,West
+504,2025-05-11,Laptop,Technology,2,2297.08,519.42,West
+505,2025-04-03,Notebook,Office Supplies,7,6335.67,854.54,West
+506,2025-03-31,Monitor,Technology,1,708.83,80.74,South
+507,2025-04-01,Monitor,Technology,9,9382.78,1489.24,West
+508,2025-06-15,Laptop,Technology,8,1004.34,265.02,West
+509,2025-10-31,Monitor,Technology,3,1644.21,109.69,South
+510,2025-08-22,Office Chair,Furniture,6,6608.74,1668.42,East
+511,2025-09-24,Headphones,Technology,6,8905.57,1966.98,West
+512,2025-02-18,Office Chair,Furniture,4,816.55,82.59,North
+513,2025-10-19,Notebook,Office Supplies,5,2767.9,696.23,East
+514,2025-09-08,Monitor,Technology,6,8772.77,2295.47,West
+515,2025-07-15,Office Chair,Furniture,1,856.06,220.76,West
+516,2025-04-22,Notebook,Office Supplies,7,546.92,37.77,West
+517,2025-09-16,Printer,Office Supplies,7,6329.48,1778.45,South
+518,2025-05-07,Laptop,Technology,4,2242.63,309.47,South
+519,2025-02-18,Smartphone,Technology,2,988.83,77.23,West
+520,2025-02-19,Office Chair,Furniture,9,12913.59,1387.39,South
+521,2025-09-20,Laptop,Technology,5,2285.67,175.07,North
+522,2025-07-18,Monitor,Technology,3,2392.69,509.76,East
+523,2025-03-24,Notebook,Office Supplies,9,2763.06,203.9,South
+524,2025-01-31,Laptop,Technology,8,1339.47,378.32,South
+525,2025-04-20,Desk,Furniture,2,2271.51,583.81,East
+526,2025-05-22,Monitor,Technology,10,8480.62,2466.27,East
+527,2025-04-23,Monitor,Technology,6,7601.06,1708.75,South
+528,2025-11-18,Laptop,Technology,4,802.2,146.97,East
+529,2025-02-05,Printer,Office Supplies,2,464.02,107.2,South
+530,2025-03-22,Headphones,Technology,4,1397.94,244.72,North
+531,2025-06-18,Office Chair,Furniture,5,6685.76,1330.85,North
+532,2025-08-13,Desk,Furniture,1,722.47,87.62,East
+533,2025-10-03,Notebook,Office Supplies,10,6388.0,722.6,South
+534,2025-06-19,Headphones,Technology,8,7806.68,533.26,West
+535,2025-06-01,Laptop,Technology,9,6060.58,484.67,West
+536,2025-10-08,Monitor,Technology,9,1222.82,264.09,South
+537,2025-10-01,Headphones,Technology,7,5717.88,1177.36,North
+538,2025-04-21,Desk,Furniture,10,5716.2,580.76,West
+539,2025-03-07,Desk,Furniture,4,2995.04,224.03,West
+540,2025-07-27,Printer,Office Supplies,5,4036.12,226.98,South
+541,2025-04-18,Laptop,Technology,6,2193.86,189.58,North
+542,2025-01-11,Headphones,Technology,2,533.2,120.7,South
+543,2025-09-08,Monitor,Technology,2,914.2,165.97,West
+544,2025-12-16,Laptop,Technology,4,2217.75,113.69,East
+545,2025-07-04,Notebook,Office Supplies,8,4871.15,329.71,South
+546,2025-07-11,Laptop,Technology,1,146.18,34.87,South
+547,2025-03-17,Monitor,Technology,9,6051.3,1750.41,West
+548,2025-10-27,Printer,Office Supplies,1,1151.74,75.55,West
+549,2025-10-14,Notebook,Office Supplies,1,142.21,24.07,North
+550,2025-01-18,Printer,Office Supplies,4,3400.26,998.94,West
+551,2025-05-16,Smartphone,Technology,2,1453.71,111.56,South
+552,2025-10-18,Notebook,Office Supplies,2,2183.2,426.35,East
+553,2025-03-05,Office Chair,Furniture,10,697.88,154.52,East
+554,2025-03-11,Laptop,Technology,2,191.99,17.64,North
+555,2025-02-08,Office Chair,Furniture,1,642.51,120.2,West
+556,2025-11-05,Laptop,Technology,10,10116.58,654.06,North
+557,2025-10-18,Laptop,Technology,9,6136.59,873.27,North
+558,2025-12-20,Laptop,Technology,8,570.73,111.27,West
+559,2025-01-09,Headphones,Technology,2,704.42,166.03,East
+560,2025-04-17,Office Chair,Furniture,9,5518.38,613.93,East
+561,2025-07-11,Headphones,Technology,2,2648.78,151.82,West
+562,2025-04-01,Notebook,Office Supplies,8,318.17,60.25,East
+563,2025-10-21,Smartphone,Technology,8,5974.86,748.6,North
+564,2025-06-14,Office Chair,Furniture,7,4506.29,1274.76,North
+565,2025-08-09,Notebook,Office Supplies,5,588.52,101.4,South
+566,2025-05-20,Smartphone,Technology,4,5040.43,496.15,South
+567,2025-06-29,Smartphone,Technology,6,405.76,52.17,South
+568,2025-06-17,Desk,Furniture,4,4806.05,407.01,South
+569,2025-08-13,Printer,Office Supplies,2,1413.61,139.63,North
+570,2025-10-25,Laptop,Technology,4,4749.6,1338.64,North
+571,2025-05-09,Headphones,Technology,5,5659.22,747.24,South
+572,2025-06-15,Printer,Office Supplies,10,11499.28,2925.41,South
+573,2025-04-22,Laptop,Technology,6,7665.18,841.64,South
+574,2025-12-01,Headphones,Technology,5,5783.17,1649.77,North
+575,2025-02-08,Laptop,Technology,8,3854.86,1054.02,West
+576,2025-12-02,Notebook,Office Supplies,10,14633.35,2307.56,South
+577,2025-11-21,Headphones,Technology,7,1495.34,274.93,East
+578,2025-10-06,Headphones,Technology,7,1854.73,450.41,South
+579,2025-11-10,Monitor,Technology,5,5564.12,883.28,East
+580,2025-11-29,Monitor,Technology,10,943.4,137.19,West
+581,2025-07-20,Printer,Office Supplies,5,2016.47,221.36,South
+582,2025-12-26,Laptop,Technology,6,5025.19,1002.87,West
+583,2025-01-05,Smartphone,Technology,8,5137.05,1195.96,North
+584,2025-08-29,Desk,Furniture,4,5835.14,867.97,North
+585,2025-08-20,Notebook,Office Supplies,7,5918.66,1182.58,West
+586,2025-08-14,Laptop,Technology,9,2354.09,648.29,East
+587,2025-04-30,Monitor,Technology,6,7739.78,2270.29,East
+588,2025-12-12,Smartphone,Technology,10,10422.24,2166.86,East
+589,2025-08-04,Headphones,Technology,7,9301.62,1836.18,West
+590,2025-03-19,Desk,Furniture,10,4162.9,525.17,South
+591,2025-06-17,Monitor,Technology,9,4612.52,392.81,East
+592,2025-05-02,Monitor,Technology,7,1621.98,276.64,South
+593,2025-08-14,Desk,Furniture,10,4606.69,1212.58,South
+594,2025-09-30,Notebook,Office Supplies,1,1038.36,98.16,East
+595,2025-05-11,Monitor,Technology,9,8822.08,944.25,East
+596,2025-04-19,Desk,Furniture,10,10199.69,2120.75,North
+597,2025-01-06,Laptop,Technology,2,2417.49,331.55,East
+598,2025-03-25,Desk,Furniture,5,4400.98,964.95,South
+599,2025-01-07,Monitor,Technology,5,3409.04,572.92,North
+600,2025-10-18,Printer,Office Supplies,1,1149.48,297.36,East
+601,2025-05-30,Monitor,Technology,3,1510.48,140.74,East
+602,2025-11-29,Notebook,Office Supplies,7,2011.84,450.84,South
+603,2025-07-27,Monitor,Technology,8,3556.94,319.31,East
+604,2025-10-13,Office Chair,Furniture,3,2854.55,655.77,North
+605,2025-06-17,Office Chair,Furniture,2,1114.05,165.54,West
+606,2025-02-17,Monitor,Technology,9,9403.43,1486.82,South
+607,2025-10-30,Office Chair,Furniture,1,622.25,65.46,South
+608,2025-08-13,Monitor,Technology,1,1032.52,296.64,North
+609,2025-06-26,Notebook,Office Supplies,8,9786.5,2520.74,West
+610,2025-09-08,Headphones,Technology,1,909.7,214.8,North
+611,2025-09-10,Headphones,Technology,3,3067.55,545.44,North
+612,2025-02-17,Monitor,Technology,1,1297.6,158.12,West
+613,2025-03-16,Monitor,Technology,6,1422.75,219.17,East
+614,2025-09-05,Headphones,Technology,8,2467.23,226.25,West
+615,2025-05-16,Smartphone,Technology,3,2628.33,645.07,East
+616,2025-10-03,Desk,Furniture,1,804.24,60.28,South
+617,2025-04-15,Printer,Office Supplies,3,1415.24,352.75,South
+618,2025-06-23,Notebook,Office Supplies,2,1844.71,389.69,East
+619,2025-05-18,Laptop,Technology,3,1603.19,344.19,North
+620,2025-09-19,Desk,Furniture,5,7061.56,1978.72,West
+621,2025-06-19,Laptop,Technology,4,5347.21,1314.85,West
+622,2025-12-09,Printer,Office Supplies,1,1496.92,335.45,South
+623,2025-07-02,Headphones,Technology,6,7527.29,1073.83,South
+624,2025-12-12,Smartphone,Technology,10,4653.36,344.25,East
+625,2025-08-28,Smartphone,Technology,3,1750.01,443.37,North
+626,2025-06-21,Smartphone,Technology,5,6226.42,605.71,North
+627,2025-12-06,Smartphone,Technology,4,3578.23,424.9,North
+628,2025-05-19,Headphones,Technology,8,11049.51,2888.17,East
+629,2025-09-04,Office Chair,Furniture,10,7612.47,819.77,West
+630,2025-08-05,Smartphone,Technology,6,1342.74,309.2,South
+631,2025-05-23,Headphones,Technology,7,7535.87,1062.23,South
+632,2025-06-25,Office Chair,Furniture,9,5531.96,810.99,East
+633,2025-04-23,Office Chair,Furniture,3,2684.74,550.18,East
+634,2025-02-01,Laptop,Technology,9,11892.37,2475.71,South
+635,2025-02-16,Laptop,Technology,10,10770.33,943.83,East
+636,2025-07-20,Notebook,Office Supplies,8,4640.08,823.08,South
+637,2025-09-17,Headphones,Technology,4,1028.99,242.98,East
+638,2025-04-07,Smartphone,Technology,1,1339.05,372.66,North
+639,2025-09-01,Laptop,Technology,6,330.31,49.29,East
+640,2025-10-18,Notebook,Office Supplies,6,4486.83,383.28,West
+641,2025-03-03,Headphones,Technology,10,4918.31,752.12,South
+642,2025-03-02,Notebook,Office Supplies,5,607.08,74.18,East
+643,2025-04-18,Monitor,Technology,2,2590.7,686.09,North
+644,2025-04-20,Printer,Office Supplies,2,2724.59,270.2,East
+645,2025-05-23,Office Chair,Furniture,5,6995.87,443.02,South
+646,2025-06-10,Desk,Furniture,4,1443.33,172.14,West
+647,2025-03-27,Laptop,Technology,6,6388.36,1276.38,East
+648,2025-11-25,Notebook,Office Supplies,5,2992.6,639.22,West
+649,2025-03-26,Office Chair,Furniture,9,11179.41,858.89,West
+650,2025-10-15,Desk,Furniture,5,543.94,31.43,East
+651,2025-01-30,Smartphone,Technology,1,1153.52,240.01,South
+652,2025-11-23,Smartphone,Technology,1,408.83,48.72,South
+653,2025-04-15,Monitor,Technology,2,2173.11,290.35,North
+654,2025-03-16,Printer,Office Supplies,7,7781.72,1952.03,North
+655,2025-02-28,Laptop,Technology,2,310.12,82.62,East
+656,2025-11-08,Monitor,Technology,8,11741.19,1586.37,East
+657,2025-06-12,Headphones,Technology,5,2537.31,574.01,East
+658,2025-11-13,Notebook,Office Supplies,1,378.46,78.31,West
+659,2025-01-05,Office Chair,Furniture,4,5364.25,1502.09,West
+660,2025-04-10,Printer,Office Supplies,3,4328.02,1166.02,West
+661,2025-07-25,Smartphone,Technology,2,1607.49,459.62,North
+662,2025-06-10,Notebook,Office Supplies,6,1310.71,88.06,South
+663,2025-07-25,Notebook,Office Supplies,6,4509.31,972.7,North
+664,2025-03-26,Printer,Office Supplies,4,2246.02,637.35,East
+665,2025-04-25,Office Chair,Furniture,10,5935.79,1071.99,South
+666,2025-03-27,Printer,Office Supplies,7,4626.79,950.75,North
+667,2025-10-25,Monitor,Technology,1,463.16,64.67,South
+668,2025-03-04,Headphones,Technology,4,4992.44,856.79,North
+669,2025-06-15,Headphones,Technology,4,4706.75,944.56,North
+670,2025-10-27,Monitor,Technology,9,4716.77,391.43,North
+671,2025-03-11,Desk,Furniture,10,1193.97,95.61,West
+672,2025-07-31,Monitor,Technology,4,4604.86,776.08,East
+673,2025-11-26,Headphones,Technology,3,1223.33,237.16,North
+674,2025-06-21,Printer,Office Supplies,1,409.6,104.21,West
+675,2025-10-19,Office Chair,Furniture,10,9992.7,2710.57,West
+676,2025-08-07,Notebook,Office Supplies,3,3181.02,680.29,North
+677,2025-04-28,Headphones,Technology,4,5303.98,1542.89,West
+678,2025-11-25,Desk,Furniture,4,4093.98,732.5,West
+679,2025-02-07,Printer,Office Supplies,2,886.94,192.84,North
+680,2025-05-26,Printer,Office Supplies,7,9552.73,2397.1,South
+681,2025-05-23,Notebook,Office Supplies,4,2982.78,848.6,South
+682,2025-05-31,Printer,Office Supplies,8,4182.79,1224.91,South
+683,2025-02-17,Laptop,Technology,5,1464.32,368.94,East
+684,2025-02-20,Office Chair,Furniture,8,7161.47,2026.1,West
+685,2025-10-04,Notebook,Office Supplies,8,658.13,133.09,West
+686,2025-12-11,Notebook,Office Supplies,2,2735.4,560.49,North
+687,2025-10-28,Office Chair,Furniture,2,1782.5,122.66,West
+688,2025-09-19,Printer,Office Supplies,3,2906.03,632.88,West
+689,2025-06-27,Monitor,Technology,1,736.88,84.19,West
+690,2025-10-22,Laptop,Technology,2,2921.64,601.65,South
+691,2025-11-03,Notebook,Office Supplies,9,12082.09,1317.58,East
+692,2025-01-10,Headphones,Technology,9,11285.09,1545.3,West
+693,2025-07-17,Printer,Office Supplies,7,3793.45,468.76,East
+694,2025-03-07,Headphones,Technology,2,242.79,30.61,North
+695,2025-07-23,Laptop,Technology,9,9655.74,2442.76,South
+696,2025-05-25,Notebook,Office Supplies,7,2926.19,218.21,North
+697,2025-12-01,Printer,Office Supplies,4,4585.8,1051.48,East
+698,2025-11-10,Monitor,Technology,8,6422.35,493.67,West
+699,2025-06-14,Notebook,Office Supplies,2,1557.06,354.48,West
+700,2025-01-09,Laptop,Technology,9,4781.73,311.55,East
+701,2025-06-19,Smartphone,Technology,5,1538.8,178.69,West
+702,2025-02-08,Monitor,Technology,7,9448.14,2082.93,South
+703,2025-05-10,Headphones,Technology,4,5000.62,1496.76,East
+704,2025-09-18,Printer,Office Supplies,6,2236.64,399.03,East
+705,2025-09-12,Office Chair,Furniture,2,2959.01,429.85,West
+706,2025-07-10,Desk,Furniture,2,1962.86,121.29,South
+707,2025-10-13,Headphones,Technology,2,2393.09,659.11,West
+708,2025-10-02,Office Chair,Furniture,7,3933.06,321.81,South
+709,2025-01-15,Printer,Office Supplies,7,10107.22,1979.16,East
+710,2025-12-08,Printer,Office Supplies,10,596.58,123.74,East
+711,2025-01-28,Notebook,Office Supplies,3,2332.91,660.4,West
+712,2025-11-17,Monitor,Technology,7,6028.49,1645.67,North
+713,2025-09-29,Desk,Furniture,3,3722.12,1000.87,South
+714,2025-03-08,Monitor,Technology,3,131.72,25.84,West
+715,2025-10-15,Office Chair,Furniture,2,2062.77,154.45,North
+716,2025-04-02,Laptop,Technology,4,453.37,116.53,West
+717,2025-02-18,Desk,Furniture,6,3658.31,482.41,East
+718,2025-07-14,Headphones,Technology,5,5063.57,1247.15,West
+719,2025-08-09,Printer,Office Supplies,10,2382.0,182.01,East
+720,2025-03-30,Printer,Office Supplies,1,1223.22,312.41,East
+721,2025-12-26,Office Chair,Furniture,3,3406.28,202.15,West
+722,2025-12-02,Laptop,Technology,3,688.08,117.31,East
+723,2025-09-21,Monitor,Technology,7,1356.97,288.37,North
+724,2025-05-31,Smartphone,Technology,5,4859.53,1226.43,North
+725,2025-01-11,Headphones,Technology,8,5870.3,1132.56,West
+726,2025-05-08,Smartphone,Technology,1,326.55,59.52,North
+727,2025-09-24,Headphones,Technology,1,635.68,162.35,East
+728,2025-12-21,Smartphone,Technology,9,1830.87,319.17,North
+729,2025-09-16,Headphones,Technology,7,3778.13,658.19,East
+730,2025-05-26,Office Chair,Furniture,10,6600.76,458.21,South
+731,2025-08-08,Headphones,Technology,4,2693.15,404.81,North
+732,2025-07-05,Monitor,Technology,2,622.08,185.74,East
+733,2025-09-06,Monitor,Technology,10,8589.65,575.83,East
+734,2025-11-13,Desk,Furniture,7,4349.24,399.8,West
+735,2025-12-25,Headphones,Technology,10,10843.25,580.63,West
+736,2025-11-16,Printer,Office Supplies,8,6667.03,612.75,South
+737,2025-09-20,Smartphone,Technology,4,5919.44,707.82,West
+738,2025-04-01,Smartphone,Technology,5,4488.14,619.34,East
+739,2025-06-18,Laptop,Technology,8,719.22,177.81,North
+740,2025-06-13,Notebook,Office Supplies,2,813.1,210.35,East
+741,2025-04-20,Monitor,Technology,10,12298.56,3519.91,East
+742,2025-01-11,Smartphone,Technology,1,20.01,1.26,North
+743,2025-12-17,Laptop,Technology,10,5619.14,631.32,South
+744,2025-10-20,Laptop,Technology,9,7067.26,1914.01,South
+745,2025-08-22,Desk,Furniture,10,12228.05,2025.11,South
+746,2025-12-21,Smartphone,Technology,3,2318.13,270.4,East
+747,2025-08-16,Smartphone,Technology,2,1793.7,437.8,West
+748,2025-10-06,Printer,Office Supplies,1,249.6,25.2,West
+749,2025-05-29,Printer,Office Supplies,3,431.5,74.25,East
+750,2025-10-06,Office Chair,Furniture,5,1767.36,375.91,South
+751,2025-06-27,Notebook,Office Supplies,6,2656.74,392.82,West
+752,2025-11-17,Headphones,Technology,3,1554.94,439.61,North
+753,2025-08-07,Notebook,Office Supplies,10,4122.27,361.17,West
+754,2025-04-09,Office Chair,Furniture,7,6994.06,586.37,West
+755,2025-08-14,Desk,Furniture,4,3701.05,1046.61,West
+756,2025-01-08,Printer,Office Supplies,2,109.26,18.28,South
+757,2025-11-29,Laptop,Technology,7,3150.39,789.0,West
+758,2025-09-07,Laptop,Technology,9,1921.59,100.05,North
+759,2025-07-01,Desk,Furniture,8,6283.25,1051.06,West
+760,2025-07-09,Desk,Furniture,6,3123.97,778.64,North
+761,2025-06-05,Notebook,Office Supplies,5,685.84,69.95,South
+762,2025-04-07,Desk,Furniture,9,9582.33,1714.16,North
+763,2025-10-11,Laptop,Technology,4,4100.32,989.73,North
+764,2025-07-16,Headphones,Technology,6,1104.53,157.95,East
+765,2025-06-23,Headphones,Technology,8,5496.21,711.09,East
+766,2025-11-26,Headphones,Technology,10,13411.39,3019.18,East
+767,2025-01-17,Notebook,Office Supplies,2,2894.35,517.99,East
+768,2025-12-20,Notebook,Office Supplies,7,3172.21,841.71,East
+769,2025-07-07,Laptop,Technology,9,10263.3,978.61,West
+770,2025-01-15,Desk,Furniture,1,830.81,151.06,South
+771,2025-11-08,Office Chair,Furniture,9,5940.33,1150.98,West
+772,2025-10-24,Office Chair,Furniture,1,595.51,68.35,North
+773,2025-04-29,Smartphone,Technology,2,132.17,19.8,West
+774,2025-12-31,Desk,Furniture,3,4288.69,290.03,West
+775,2025-01-22,Office Chair,Furniture,2,2019.04,260.34,West
+776,2025-09-10,Headphones,Technology,9,3240.16,871.79,East
+777,2025-07-05,Headphones,Technology,10,909.31,240.83,East
+778,2025-11-03,Printer,Office Supplies,7,3844.98,539.86,South
+779,2025-09-08,Smartphone,Technology,2,1309.14,109.46,North
+780,2025-06-27,Desk,Furniture,2,1399.45,223.37,West
+781,2025-02-12,Office Chair,Furniture,3,1606.45,252.71,East
+782,2025-10-13,Printer,Office Supplies,7,5992.35,300.68,South
+783,2025-06-11,Laptop,Technology,10,6976.28,1789.81,East
+784,2025-11-11,Smartphone,Technology,9,237.88,47.43,West
+785,2025-05-08,Laptop,Technology,1,1405.55,173.29,South
+786,2025-07-17,Laptop,Technology,9,3668.14,195.76,East
+787,2025-08-22,Monitor,Technology,7,3582.83,1029.22,North
+788,2025-02-05,Printer,Office Supplies,6,7493.35,1526.94,West
+789,2025-02-11,Desk,Furniture,6,4881.12,655.56,West
+790,2025-08-21,Printer,Office Supplies,2,771.84,230.77,North
+791,2025-03-16,Headphones,Technology,2,687.46,101.77,South
+792,2025-11-04,Printer,Office Supplies,5,2792.42,481.81,North
+793,2025-12-25,Headphones,Technology,1,260.63,18.75,South
+794,2025-02-18,Notebook,Office Supplies,8,7555.03,2101.28,East
+795,2025-09-04,Desk,Furniture,8,446.79,129.75,West
+796,2025-09-25,Headphones,Technology,8,4652.79,314.59,North
+797,2025-07-13,Smartphone,Technology,10,5383.59,1462.99,West
+798,2025-02-22,Office Chair,Furniture,9,9145.01,2026.86,West
+799,2025-02-06,Office Chair,Furniture,10,584.99,91.78,East
+800,2025-02-11,Office Chair,Furniture,9,614.99,48.63,South
+801,2025-09-24,Monitor,Technology,5,7387.33,1611.87,East
+802,2025-11-11,Monitor,Technology,10,8659.97,2094.24,West
+803,2025-10-03,Headphones,Technology,4,4333.99,1182.05,North
+804,2025-02-18,Office Chair,Furniture,9,2778.87,245.2,North
+805,2025-12-10,Monitor,Technology,10,11447.63,3013.82,South
+806,2025-09-19,Headphones,Technology,7,2872.63,563.0,South
+807,2025-08-16,Notebook,Office Supplies,5,2512.13,383.96,South
+808,2025-06-28,Office Chair,Furniture,10,10841.16,1376.94,West
+809,2025-08-08,Office Chair,Furniture,4,1588.03,394.56,South
+810,2025-01-08,Monitor,Technology,1,604.34,155.32,East
+811,2025-09-17,Monitor,Technology,10,7539.01,1154.79,East
+812,2025-11-14,Headphones,Technology,2,2730.44,727.98,North
+813,2025-12-20,Printer,Office Supplies,5,208.35,26.11,North
+814,2025-11-08,Monitor,Technology,9,13354.9,2997.92,South
+815,2025-10-31,Laptop,Technology,2,2591.91,631.55,East
+816,2025-11-30,Office Chair,Furniture,3,431.82,108.5,North
+817,2025-03-02,Headphones,Technology,5,3287.45,502.81,North
+818,2025-12-28,Monitor,Technology,2,1833.37,427.23,South
+819,2025-01-14,Laptop,Technology,8,5826.16,586.26,East
+820,2025-07-25,Desk,Furniture,5,2778.28,200.19,North
+821,2025-07-02,Monitor,Technology,4,1634.17,444.08,South
+822,2025-11-11,Laptop,Technology,3,2469.52,280.72,North
+823,2025-01-19,Monitor,Technology,5,3644.23,930.46,East
+824,2025-11-16,Monitor,Technology,1,581.11,107.29,South
+825,2025-01-04,Printer,Office Supplies,6,3366.1,357.5,South
+826,2025-12-03,Monitor,Technology,3,413.26,26.76,West
+827,2025-07-29,Headphones,Technology,9,594.28,175.55,North
+828,2025-10-29,Printer,Office Supplies,10,311.37,65.03,East
+829,2025-04-09,Monitor,Technology,9,2959.97,624.72,South
+830,2025-11-26,Monitor,Technology,3,995.98,259.55,North
+831,2025-06-17,Notebook,Office Supplies,6,8461.6,1022.74,East
+832,2025-02-10,Smartphone,Technology,9,3869.76,1073.2,West
+833,2025-10-06,Printer,Office Supplies,9,7248.93,571.4,South
+834,2025-05-21,Desk,Furniture,8,2555.31,624.42,West
+835,2025-11-21,Printer,Office Supplies,7,5352.88,1202.11,South
+836,2025-07-31,Notebook,Office Supplies,8,8338.09,1056.69,South
+837,2025-07-04,Notebook,Office Supplies,4,5861.77,1514.34,South
+838,2025-07-13,Smartphone,Technology,7,1554.16,275.04,West
+839,2025-02-10,Smartphone,Technology,5,879.95,98.48,North
+840,2025-12-13,Headphones,Technology,3,2103.63,328.59,West
+841,2025-11-03,Laptop,Technology,1,1302.57,326.19,West
+842,2025-07-03,Printer,Office Supplies,3,2451.39,138.01,North
+843,2025-02-22,Desk,Furniture,2,2679.13,485.77,South
+844,2025-04-24,Notebook,Office Supplies,1,815.79,129.12,South
+845,2025-07-13,Desk,Furniture,6,3837.87,688.03,East
+846,2025-12-16,Notebook,Office Supplies,7,2016.12,124.5,East
+847,2025-06-07,Notebook,Office Supplies,3,1405.12,401.15,South
+848,2025-12-12,Desk,Furniture,9,9427.84,837.96,North
+849,2025-07-13,Desk,Furniture,8,6678.69,1579.99,East
+850,2025-02-18,Laptop,Technology,1,1467.37,265.27,North
+851,2025-02-19,Laptop,Technology,5,5942.29,1637.88,West
+852,2025-02-13,Printer,Office Supplies,6,8472.96,2036.06,North
+853,2025-06-27,Smartphone,Technology,1,1211.35,285.88,South
+854,2025-03-28,Desk,Furniture,4,3392.93,647.19,West
+855,2025-01-01,Laptop,Technology,8,1315.55,322.12,South
+856,2025-07-28,Office Chair,Furniture,5,2683.94,776.25,West
+857,2025-12-09,Smartphone,Technology,3,4497.52,1029.35,West
+858,2025-11-26,Office Chair,Furniture,1,983.84,70.82,East
+859,2025-02-16,Headphones,Technology,6,6958.74,510.34,East
+860,2025-03-29,Office Chair,Furniture,7,9773.51,1818.5,North
+861,2025-07-29,Laptop,Technology,4,3988.09,324.0,West
+862,2025-02-25,Smartphone,Technology,2,1883.47,398.06,South
+863,2025-01-16,Office Chair,Furniture,8,1911.51,565.33,East
+864,2025-05-06,Printer,Office Supplies,3,1474.22,399.02,West
+865,2025-08-31,Notebook,Office Supplies,6,3065.68,242.22,North
+866,2025-09-01,Laptop,Technology,2,2883.8,726.25,West
+867,2025-02-08,Printer,Office Supplies,9,9136.34,2016.65,South
+868,2025-12-11,Monitor,Technology,3,729.39,61.24,East
+869,2025-01-29,Smartphone,Technology,3,4326.67,994.41,North
+870,2025-04-26,Laptop,Technology,8,9301.2,1251.71,West
+871,2025-07-12,Headphones,Technology,10,11811.03,2423.12,West
+872,2025-04-08,Printer,Office Supplies,1,1426.65,81.58,North
+873,2025-05-07,Office Chair,Furniture,3,2033.24,280.4,West
+874,2025-08-25,Laptop,Technology,1,1196.8,81.36,West
+875,2025-06-10,Printer,Office Supplies,9,2509.16,709.42,East
+876,2025-06-14,Smartphone,Technology,2,1655.11,206.99,North
+877,2025-12-30,Office Chair,Furniture,1,98.88,26.04,South
+878,2025-01-19,Notebook,Office Supplies,10,1232.1,153.56,East
+879,2025-07-28,Printer,Office Supplies,1,84.12,10.51,East
+880,2025-04-26,Desk,Furniture,6,5538.18,624.7,South
+881,2025-09-29,Desk,Furniture,8,566.73,51.72,South
+882,2025-01-12,Notebook,Office Supplies,6,1925.23,489.63,North
+883,2025-07-11,Office Chair,Furniture,9,4404.29,776.21,South
+884,2025-08-26,Smartphone,Technology,10,14166.71,3529.02,West
+885,2025-01-10,Monitor,Technology,9,10551.48,2304.65,South
+886,2025-07-22,Office Chair,Furniture,8,5005.11,1399.15,West
+887,2025-02-14,Printer,Office Supplies,2,1417.57,312.11,North
+888,2025-04-09,Headphones,Technology,3,371.29,31.02,South
+889,2025-10-18,Printer,Office Supplies,9,3286.86,928.25,East
+890,2025-11-27,Headphones,Technology,2,1994.58,228.64,East
+891,2025-11-11,Office Chair,Furniture,7,8404.53,1148.6,East
+892,2025-08-20,Laptop,Technology,2,2045.62,116.01,West
+893,2025-07-11,Headphones,Technology,3,3868.2,933.81,East
+894,2025-05-08,Laptop,Technology,10,8254.98,860.85,North
+895,2025-12-13,Monitor,Technology,3,174.15,45.28,East
+896,2025-03-09,Desk,Furniture,2,789.81,186.55,South
+897,2025-02-20,Office Chair,Furniture,10,8299.6,1139.72,East
+898,2025-02-15,Notebook,Office Supplies,7,9530.86,2386.09,West
+899,2025-10-09,Printer,Office Supplies,3,1220.0,66.79,East
+900,2025-11-15,Laptop,Technology,2,999.51,72.82,South
+901,2025-11-14,Smartphone,Technology,9,13157.6,3751.42,East
+902,2025-06-05,Monitor,Technology,10,12134.05,896.12,West
+903,2025-12-23,Smartphone,Technology,1,456.88,74.24,West
+904,2025-12-08,Printer,Office Supplies,6,8829.96,1952.99,East
+905,2025-03-27,Smartphone,Technology,3,4247.23,408.74,North
+906,2025-12-12,Desk,Furniture,5,526.92,48.98,South
+907,2025-08-28,Printer,Office Supplies,9,12420.04,3667.32,West
+908,2025-10-19,Office Chair,Furniture,3,4014.88,438.07,West
+909,2025-03-24,Monitor,Technology,9,6526.81,1491.1,East
+910,2025-12-30,Laptop,Technology,10,8076.9,1559.03,North
+911,2025-11-01,Notebook,Office Supplies,2,1950.2,244.56,North
+912,2025-11-06,Office Chair,Furniture,10,10398.73,2411.62,West
+913,2025-07-10,Desk,Furniture,5,3111.38,672.64,South
+914,2025-05-12,Laptop,Technology,1,936.49,259.3,North
+915,2025-07-09,Headphones,Technology,2,188.66,41.26,East
+916,2025-08-02,Office Chair,Furniture,10,8413.23,1527.89,West
+917,2025-07-29,Laptop,Technology,9,3889.9,1116.49,East
+918,2025-06-13,Headphones,Technology,3,631.28,178.56,West
+919,2025-01-02,Laptop,Technology,6,7861.67,627.62,West
+920,2025-11-09,Headphones,Technology,4,4670.22,1135.59,East
+921,2025-06-19,Notebook,Office Supplies,3,4358.43,1061.29,North
+922,2025-10-13,Printer,Office Supplies,5,1422.8,402.08,West
+923,2025-02-07,Notebook,Office Supplies,4,4986.45,1310.94,West
+924,2025-04-27,Office Chair,Furniture,7,3867.31,1143.57,North
+925,2025-10-03,Monitor,Technology,3,1130.73,201.09,East
+926,2025-03-05,Desk,Furniture,10,7192.52,1592.94,West
+927,2025-05-23,Office Chair,Furniture,5,1396.85,346.17,West
+928,2025-02-07,Printer,Office Supplies,2,833.92,238.57,West
+929,2025-11-29,Smartphone,Technology,10,10503.09,2294.82,South
+930,2025-12-16,Desk,Furniture,1,387.78,67.74,South
+931,2025-07-02,Monitor,Technology,8,9755.74,1441.26,North
+932,2025-06-10,Office Chair,Furniture,4,3629.72,429.41,East
+933,2025-06-10,Headphones,Technology,2,2836.6,271.96,South
+934,2025-11-08,Notebook,Office Supplies,7,7265.37,1501.33,South
+935,2025-01-21,Printer,Office Supplies,8,11892.3,1184.3,West
+936,2025-10-30,Desk,Furniture,6,8910.29,2642.47,North
+937,2025-02-06,Laptop,Technology,4,1015.3,167.1,East
+938,2025-04-05,Monitor,Technology,8,5128.99,337.39,East
+939,2025-07-01,Headphones,Technology,2,325.41,96.26,North
+940,2025-05-17,Headphones,Technology,3,3841.82,1138.36,East
+941,2025-11-06,Headphones,Technology,7,3195.0,918.27,South
+942,2025-09-30,Printer,Office Supplies,4,3343.96,174.63,East
+943,2025-03-28,Desk,Furniture,5,1606.83,201.71,South
+944,2025-08-07,Smartphone,Technology,1,234.34,43.24,South
+945,2025-07-26,Printer,Office Supplies,2,587.28,156.41,West
+946,2025-04-03,Desk,Furniture,10,10735.11,2397.64,West
+947,2025-07-08,Monitor,Technology,10,1479.77,387.48,West
+948,2025-07-28,Office Chair,Furniture,7,2192.76,640.95,West
+949,2025-01-23,Office Chair,Furniture,9,12670.8,2142.74,East
+950,2025-09-12,Notebook,Office Supplies,3,1220.63,198.55,West
+951,2025-05-25,Smartphone,Technology,8,6201.09,916.74,North
+952,2025-04-16,Office Chair,Furniture,4,4421.57,1055.45,East
+953,2025-12-09,Notebook,Office Supplies,7,1195.24,321.43,West
+954,2025-10-07,Office Chair,Furniture,10,3734.37,404.19,North
+955,2025-08-22,Smartphone,Technology,2,794.69,90.45,North
+956,2025-04-12,Smartphone,Technology,8,1681.88,450.78,North
+957,2025-11-13,Printer,Office Supplies,4,852.28,254.47,West
+958,2025-01-19,Monitor,Technology,7,585.25,77.03,South
+959,2025-01-16,Office Chair,Furniture,3,1844.29,428.94,South
+960,2025-08-09,Headphones,Technology,6,6783.98,511.48,South
+961,2025-12-14,Monitor,Technology,1,1343.36,292.07,North
+962,2025-07-17,Printer,Office Supplies,2,1679.86,221.9,South
+963,2025-09-08,Notebook,Office Supplies,9,727.98,75.64,West
+964,2025-09-29,Laptop,Technology,10,3239.83,709.88,North
+965,2025-09-09,Smartphone,Technology,6,7746.4,2004.21,North
+966,2025-07-02,Smartphone,Technology,2,1957.41,191.33,South
+967,2025-08-07,Desk,Furniture,10,4942.98,845.14,West
+968,2025-03-08,Smartphone,Technology,2,1941.96,237.74,West
+969,2025-08-25,Smartphone,Technology,10,8594.46,2193.4,West
+970,2025-06-17,Monitor,Technology,8,9133.33,2165.99,South
+971,2025-01-26,Smartphone,Technology,2,2369.02,309.29,North
+972,2025-07-06,Office Chair,Furniture,9,3611.83,207.35,North
+973,2025-03-04,Laptop,Technology,7,4495.29,711.79,South
+974,2025-07-26,Desk,Furniture,1,306.57,69.96,West
+975,2025-07-31,Printer,Office Supplies,1,866.74,77.93,North
+976,2025-04-07,Monitor,Technology,6,4428.14,997.85,South
+977,2025-03-26,Notebook,Office Supplies,1,768.71,128.37,North
+978,2025-06-11,Monitor,Technology,4,3306.1,841.49,North
+979,2025-03-08,Printer,Office Supplies,7,8874.63,1484.41,South
+980,2025-11-12,Monitor,Technology,8,7797.68,2174.23,North
+981,2025-08-30,Desk,Furniture,1,379.03,23.82,South
+982,2025-07-22,Headphones,Technology,6,330.71,77.13,South
+983,2025-05-13,Headphones,Technology,10,12060.01,711.19,East
+984,2025-06-30,Laptop,Technology,10,9901.17,1685.84,West
+985,2025-05-30,Desk,Furniture,9,7682.84,1158.25,South
+986,2025-04-19,Laptop,Technology,1,234.95,65.36,East
+987,2025-12-29,Desk,Furniture,4,3522.93,424.72,West
+988,2025-03-05,Office Chair,Furniture,7,2941.08,186.69,South
+989,2025-12-03,Notebook,Office Supplies,8,479.04,38.2,East
+990,2025-07-31,Notebook,Office Supplies,3,4286.51,1034.02,South
+991,2025-05-07,Notebook,Office Supplies,2,1158.89,229.69,South
+992,2025-01-28,Printer,Office Supplies,9,11467.57,1044.74,South
+993,2025-10-05,Headphones,Technology,7,701.54,115.3,East
+994,2025-09-30,Monitor,Technology,3,1316.33,191.63,West
+995,2025-08-27,Desk,Furniture,7,2064.99,354.88,South
+996,2025-07-22,Headphones,Technology,3,3658.67,231.82,West
+997,2025-07-20,Office Chair,Furniture,5,3707.1,808.35,South
+998,2025-02-02,Printer,Office Supplies,5,6290.24,375.43,North
+999,2025-02-16,Desk,Furniture,7,9099.55,547.73,West
+1000,2025-02-17,Monitor,Technology,5,4322.74,1262.23,West
